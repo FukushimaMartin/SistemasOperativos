@@ -88,6 +88,13 @@ void leer_consola(t_log* logger)
 	//El primero te lo dejo de yapa
 	leido = readline(">");
 
+	while(strncmp(leido, "", 1) != 0) {
+			log_info(logger, leido);
+			free(leido);
+			leido = readline(">");
+		}
+
+	free(leido);
 
 }
 

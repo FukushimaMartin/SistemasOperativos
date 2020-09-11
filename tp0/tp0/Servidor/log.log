@@ -11877,3 +11877,7 @@
 [INFO] 23:31:08:362 Servidor/(14867:14867): Servidor listo para recibir al cliente
 [INFO] 23:31:14:779 Servidor/(14867:14867): Se conecto un cliente!
 [INFO] 23:31:14:779 Servidor/(14867:14867): Me llego el mensaje Hola como estas
+[INFO] 15:30:10:405 Servidor/(16292:16292): Servidor listo para recibir al cliente
+[INFO] 15:30:16:344 Servidor/(16292:16292): Se conecto un cliente!
+[INFO] 15:30:16:345 Servidor/(16292:16292): Me llego el mensaje Hola como estas
+[ERROR] 15:30:32:780 Servidor/(16292:16292): el cliente se desconecto. Terminando servidor
